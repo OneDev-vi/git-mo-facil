@@ -1,9 +1,14 @@
 portuges-brasil :
-Não voute para o commit 2 so voute no tempo no commit 3 ou 4,
- se voutar no 1 e 2 vai dar erro por causa que o arquivo,
- .vscode e biuld/debug e voçê não podera voutar pra versão mais recente
+Não voute para o commit 2 e 1 so volte no tempo no commit 3 ou 4,
+ se voltar no 1 e 2 vai dar erro por causa que o arquivo,
+  .vscode e biuld/debug não existia no commit 1 e 2 voçê,
+   não podera voltar pra versão mais recente do git,
+    vai dar erro na hora de fazer git checkout main para a versão recente 
 
-american: Don't go to commit 2, just go to commit 3 or 4,
- if you go to 1 and 2 it will give an error because of the file,
-  .vscode and biuld/debug and you won't be able to go to the most recent version
+american:
+Don't go to commits 2 and 1,
+ just go back in time to commit 3 or 4,
+  if you go back to 1 and 2 it will give an error because the file,
+   .vscode and biuld/debug did not exist in commits 1 and 2 and if you cannot go back to the most recent version and git,
+    will give an error when doing git checkout main for the recent version
 
